@@ -1,0 +1,16 @@
+# Local environment variables
+.env
+
+# Python virtual environment
+.venv/
+env/
+venv/
+ENV/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Streamlit/IDE configs
+.streamlit/
+.vscode/
